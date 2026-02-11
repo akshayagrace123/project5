@@ -9,14 +9,14 @@
 .app {
   min-height: 100vh;
   width: 100vw;
-  background: linear-gradient(135deg, #fdfeff, #3f8796);
+  background: linear-gradient(135deg, #10b674, #02402e);
   display: flex;
   flex-direction: column;
 }
 
 
 .header {
-  background: rgba(58, 197, 229, 0.9);
+  background: rgba(21, 60, 42, 0.9);
   color: #e5e7eb;
   text-align: center;
   padding: 22px;
@@ -58,7 +58,7 @@
   padding: 12px 20px;
   border: none;
   border-radius: 8px;
-  background: linear-gradient(135deg, #67bef8, #3395cd);
+  background: linear-gradient(135deg, #58eda0, #206f46);
   color: white;
   cursor: pointer;
   font-size: 14px;
@@ -73,20 +73,20 @@
 }
 
 .Weather-card {
-  background: rgba(12, 20, 28, 0.85);
+  background: rgba(2, 6, 23, 0.85);
   backdrop-filter: blur(8px);
   width: 100%;
   max-width: 420px;
   padding: 24px;
   border-radius: 16px;
   text-align: center;
-  box-shadow: 0 20px 40px rgba(15, 46, 45, 0.958);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
   border: 1px solid #1e293b;
 }
 
 .Weather-card h2 {
   margin-bottom: 12px;
-  color: #38bdf8;
+  color: #05b767;
   font-size: 22px;
 }
 
@@ -97,8 +97,8 @@
 }
 
 .footer {
-  background: rgba(87, 194, 247, 0.9);
-  color: #f6f6f6;
+  background: rgba(21, 60, 42, 0.9);
+  color: #94a3b8;
   text-align: center;
   padding: 14px;
   font-size: 13px;
